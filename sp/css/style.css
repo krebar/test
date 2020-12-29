@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+
+#leinwand{
+    border-radius: 1%;
+    background-color: whitesmoke;
+    display: block;
+    margin: 0 auto;
+}
